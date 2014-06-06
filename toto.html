@@ -36,7 +36,7 @@
 		var client = new WindowsAzure.MobileServiceClient("https://cornsep14.azure-mobile.net/","JraJMfalfiJepMZfXVfkFjOZGvglUh32");
 		var prixItemTable = client.getTable('prixmais');
 		var toto = prixItemTable.where({
-            complete: false
+            price: "462'0"
         }).read().done(function (results) {
             alert(JSON.stringify(results));
         }, function (err) {
