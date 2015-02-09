@@ -33,7 +33,7 @@
     
       <div class="card">
         <button class="btn btn-positive btn-block">
-	  <a class="commander.html" data-transition="slide-in">
+	  <a class href="./commander.html" data-transition="slide-in">
 	  Commander
 	  </a>
 	</button>
