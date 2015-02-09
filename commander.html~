@@ -29,18 +29,9 @@
     <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
     <div class="content">
 	<img class="media-object" src="./logo-lacoop.jpg">
-	<p class="content-padded">En tant que producteur agricole, je veux...</p>
+	<p class="content-padded">Liste des 3 produits récemment commandés par le producteur...</p>
     
-      <div class="card">
-        <button class="btn btn-positive btn-block">
-	  <a class="commander.html" data-transition="slide-in">
-	  Commander
-	  </a>
-	</button>
-	<button class="btn btn-positive btn-block">Contacter</button>
-	<button class="btn btn-positive btn-block">Recevoir une soumission</button>
-	
-      </div>
+      
     </div>    
 <nav class="bar bar-tab">
   <a class="tab-item active" href="tata.html">
