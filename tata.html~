@@ -12,10 +12,10 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
     <!-- Include the compiled Ratchet CSS -->
-    <link href="ratchet.css" rel="stylesheet">
+    <link href="./css/ratchet.css" rel="stylesheet">
 
     <!-- Include the compiled Ratchet JS -->
-    <script src="ratchet.js"></script>
+    <script src="./js/ratchet.js"></script>
 	
 	
   </head>
@@ -32,7 +32,11 @@
 	<p class="content-padded">En tant que producteur agricole, je veux...</p>
     
       <div class="card">
-        <button class="btn btn-positive btn-block">Commander</button>
+        <button class="btn btn-positive btn-block">
+	  <a class="commander.html" data-transition="slide-in">
+	  Commander
+	  </a>
+	</button>
 	<button class="btn btn-positive btn-block">Contacter</button>
 	<button class="btn btn-positive btn-block">Recevoir une soumission</button>
 	
