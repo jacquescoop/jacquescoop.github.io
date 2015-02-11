@@ -29,7 +29,9 @@
     <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
     <div class="content">
 	<p class="content-padded">Selon votre programme alimentaire La Coop...</p>
-    	<button class="btn btn-positive btn-block">Goliath Star PRO</button>
+    	<button class="btn btn-positive btn-block">
+	  <a href="" onclik="alert('Hey hey! Merci!')">Goliath Star PRO</a>
+	</button>
 	<button class="btn btn-positive btn-block">Transilac 17 Rumensin</button>
 	<button class="btn btn-positive btn-block"> Goliath 21 PRO</button>
       	<p class="content-padded">Ou encore parmi ces 3 produits...</p>
