@@ -39,7 +39,7 @@
 	<button class="btn btn-positive btn-block">Recevoir une soumission</button>
 	
       </div>
-	<img class="media-object" src="./ReleveCoop.jpg" width="234" height="60">
+	<img class="media-object" src="./ReleveCoop.jpg" width="380" height="60">
     </div>    
 <nav class="bar bar-tab">
   <a class="tab-item active" href="./tata.html" data-transition="slide-out">
