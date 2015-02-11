@@ -28,14 +28,11 @@
 
     <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
     <div class="content">
-	<p class="content-padded">Selon votre programme alimentaire La Coop...</p>
-    	<button class="btn btn-positive btn-block">Goliath Star PRO</button>
-	<button class="btn btn-positive btn-block">Transilac 17 Rumensin</button>
-	<button class="btn btn-positive btn-block"> Goliath 21 PRO</button>
-      	<p class="content-padded">Ou encore parmi ces 3 produits...</p>
-	<button class="btn btn-positive btn-block">Minéral bloc Synchro 10-10</button>
-	<button class="btn btn-positive btn-block">Minéral bloc Transilac S-305</button>
-	<button class="btn btn-positive btn-block">Supplément Synchro 4048</button>
+	<p class="content-padded">A votre coopérative...</p>
+    	<button class="btn btn-positive btn-block">Jocelyn Tremblay, expert-conseil</button>
+	<button class="btn btn-positive btn-block">Jean-Marc Pitre, directeur des ventes</button>
+	<button class="btn btn-positive btn-block">Pierre Guay, agronome</button>
+      	
 	
     </div>    
 <nav class="bar bar-tab">
