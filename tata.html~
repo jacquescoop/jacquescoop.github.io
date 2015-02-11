@@ -33,9 +33,7 @@
     
       <div class="card">
         <button class="btn btn-positive btn-block">
-	  <a class href="./commander.html" data-transition="slide-in">
-	  Commander
-	  </a>
+	  <a class href="./commander.html" data-transition="slide-in">Commander</a>
 	</button>
 	<button class="btn btn-positive btn-block">Contacter</button>
 	<button class="btn btn-positive btn-block">Recevoir une soumission</button>
