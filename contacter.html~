@@ -29,10 +29,14 @@
     <div class="content">
 	<p class="content-padded">A votre coopérative...</p>
     	<button class="btn btn-positive btn-block">
-	  <a href="tel:+15555555555" onclick="alert('SomeEvent')">Jocelyn Tremblay, expert-conseil</a>
+	  <a href="tel:+15555555555">Jocelyn Tremblay, expert-conseil</a>
 	</button>
-	<button class="btn btn-positive btn-block">Jean-Marc Pitre, directeur des ventes</button>
-	<button class="btn btn-positive btn-block">Pierre Guay, agronome</button>
+	<button class="btn btn-positive btn-block">
+	  <a href="tel:+15555555555">Jean-Marc Pitre, directeur des ventes</a>
+	</button>
+	<button class="btn btn-positive btn-block">
+	  <a href="tel:+15555555555">Pierre Guay, agronome</a>
+	</button>
       	
 	
     </div>    
