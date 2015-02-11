@@ -17,33 +17,19 @@
     <!-- Include the compiled Ratchet JS -->
     <script src="./js/ratchet.js"></script>
 	
-function setLocation(nextPage, target) {
-    if (target == "_blank") {
-        window.open(nextPage);
-    }
-    else {
-        location.href = nextPage;
-    }
-}
-function trackPhone(vPageUrl, vPageTitle, phone, aTag) {
-    dcsMultiTrack('DCS.dcsuri', vPageUrl, 'WT.ti', vPageTitle);
-    setTimeout("setLocation('" + phone + "', '" + aTag.target + "')", 500);
-    return false;
-}
-	
   </head>
   <body>
 
     <!-- Make sure all your bars are the first things in your <body> -->
     <header class="bar bar-nav">
- 	<h1 class="title">La Coop Mobile!</h1>
+ 	<h1 class="title">Contacter!</h1>
     </header>
 
     <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
     <div class="content">
 	<p class="content-padded">A votre coopérative...</p>
     	<button class="btn btn-positive btn-block">
-	  <a href="tel:+15555555555" class="call_now preventPhone" onclick="trackPhone('SomeEvent', 'SomeTag','tel:+15555555555',this)">Jocelyn Tremblay, expert-conseil</a>
+	  <a href="tel:+15555555555" onclick="alert('SomeEvent')">Jocelyn Tremblay, expert-conseil</a>
 	</button>
 	<button class="btn btn-positive btn-block">Jean-Marc Pitre, directeur des ventes</button>
 	<button class="btn btn-positive btn-block">Pierre Guay, agronome</button>
