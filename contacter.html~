@@ -28,19 +28,15 @@
 
     <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
     <div class="content">
-	<img class="media-object" src="./Bandeau-Raygrass_765x95.jpg" width="340" height="60">
-
-	<p class="content-padded">En tant que producteur agricole, je veux...</p>
-    
-      <div class="card">
-        <button class="btn btn-positive btn-block">
-	  <a class href="./commander.html" data-transition="slide-in">Commander</a>
-	</button>
-	<button class="btn btn-positive btn-block">Contacter</button>
-	<button class="btn btn-positive btn-block">Recevoir une soumission</button>
+	<p class="content-padded">Selon votre programme alimentaire La Coop...</p>
+    	<button class="btn btn-positive btn-block">Goliath Star PRO</button>
+	<button class="btn btn-positive btn-block">Transilac 17 Rumensin</button>
+	<button class="btn btn-positive btn-block"> Goliath 21 PRO</button>
+      	<p class="content-padded">Ou encore parmi ces 3 produits...</p>
+	<button class="btn btn-positive btn-block">Minéral bloc Synchro 10-10</button>
+	<button class="btn btn-positive btn-block">Minéral bloc Transilac S-305</button>
+	<button class="btn btn-positive btn-block">Supplément Synchro 4048</button>
 	
-      </div>
-	<img class="media-object" src="./PAE-COOPERATEUR-728x90.gif" width="340" height="60">
     </div>    
 <nav class="bar bar-tab">
   <a class="tab-item active" href="./tata.html" data-transition="slide-out">
